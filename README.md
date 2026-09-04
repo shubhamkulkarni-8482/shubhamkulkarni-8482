@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=360&height=44&lines=Brand%20Specialist;Aspiring%20Data%20Analyst" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=360&height=44&lines=Catalog%20Specialist;Aspiring%20Data%20Analyst" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
